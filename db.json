@@ -1,0 +1,146 @@
+{
+  "characters": [
+    [
+      {
+        "Name": "Rick Sanchez",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+        "Gender": "Male",
+        "Status": "Alive",
+        "Species": "Human"
+      },
+      {
+        "Name": "Morty Smith",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+        "Gender": "Male",
+        "Status": "Alive",
+        "Species": "Human"
+      },
+      {
+        "Name": "Summer Smith",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+        "Gender": "Female",
+        "Status": "Alive",
+        "Species": "Human"
+      },
+      {
+        "Name": "Beth Smith",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+        "Gender": "Female",
+        "Status": "Alive",
+        "Species": "Human"
+      },
+      {
+        "Name": "Jerry Smith",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+        "Gender": "Male",
+        "Status": "Alive",
+        "Species": "Human"
+      },
+      {
+        "Name": "Abadango Cluster Princess",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+        "Gender": "Female",
+        "Status": "Alive",
+        "Species": "Alien"
+      },
+      {
+        "Name": "Abradolf Lincler",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+        "Gender": "Male",
+        "Status": "unknown",
+        "Species": "Human"
+      },
+      {
+        "Name": "Adjudicator Rick",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+        "Gender": "Male",
+        "Status": "Dead",
+        "Species": "Human"
+      },
+      {
+        "Name": "Agency Director",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+        "Gender": "Male",
+        "Status": "Dead",
+        "Species": "Human"
+      },
+      {
+        "Name": "Alan Rails",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+        "Gender": "Male",
+        "Status": "Dead",
+        "Species": "Human"
+      },
+      {
+        "Name": "Albert Einstein",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+        "Gender": "Male",
+        "Status": "Dead",
+        "Species": "Human"
+      },
+      {
+        "Name": "Alexander",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+        "Gender": "Male",
+        "Status": "Dead",
+        "Species": "Human"
+      },
+      {
+        "Name": "Alien Googah",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
+        "Gender": "unknown",
+        "Status": "unknown",
+        "Species": "Alien"
+      },
+      {
+        "Name": "Alien Morty",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg",
+        "Gender": "Male",
+        "Status": "unknown",
+        "Species": "Alien"
+      },
+      {
+        "Name": "Alien Rick",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+        "Gender": "Male",
+        "Status": "unknown",
+        "Species": "Alien"
+      },
+      {
+        "Name": "Amish Cyborg",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+        "Gender": "Male",
+        "Status": "Dead",
+        "Species": "Alien"
+      },
+      {
+        "Name": "Annie",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+        "Gender": "Female",
+        "Status": "Alive",
+        "Species": "Human"
+      },
+      {
+        "Name": "Antenna Morty",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
+        "Gender": "Male",
+        "Status": "Alive",
+        "Species": "Human"
+      },
+      {
+        "Name": "Antenna Rick",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
+        "Gender": "Male",
+        "Status": "unknown",
+        "Species": "Human"
+      },
+      {
+        "Name": "Ants in my Eyes Johnson",
+        "Image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+        "Gender": "Male",
+        "Status": "unknown",
+        "Species": "Human"
+      }
+    ]
+  ]
+}

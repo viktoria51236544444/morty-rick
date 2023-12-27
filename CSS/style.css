@@ -1,0 +1,35 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+.block-1 {
+  padding: 25px;
+  border: 5px solid rgb(3, 2, 2);
+  background-color: black;
+}
+
+.block-2 {
+  padding: 25px;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: black;
+}
+h1,
+h2 {
+  font-family: Lato;
+}
+body {
+  background-image: url("https://u-stena.ru/upload/iblock/1fe/1feb0811ab940f7a0a78c0b8219a29c7.jpg");
+
+  width: 100%;
+  height: 100%;
+}
+
+.p {
+  color: white;
+}
